@@ -8,9 +8,13 @@ The goal is to identify shifts in market regimes (risk-on vs. risk-off) using ma
 - Apply explainability methods at both local and global levels
 - Provide a robust tool for detecting financial anomalies
 #### Project Structure
-- NotebookFinalProject_Group21.ipynb: full implementation of the pipeline (EDA, preprocessing, models, evaluation)
-- PWFinalProjectFintech_Group21.pdf: final presentation with results and conclusions
-- requirements.txt: list of Python dependencies
+```bash
+NotebookFinalProject_Group21.ipynb: full implementation of the pipeline (EDA, preprocessing, models, evaluation)
+
+PWFinalProjectFintech_Group21.pdf: final presentation with results and conclusions
+
+requirements.txt: list of Python dependencies
+```
 #### Data Preprocessing
 - Stationarity test (ADF test)
 - Transformations (log differences, simple differences)
